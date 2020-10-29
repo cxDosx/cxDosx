@@ -6,3 +6,4 @@
         - 国服：秘制红烧肉 - 神意之地
     - Music Game
         - プロセカ（世界计划）：Yoake Yui
+        - maimai（舞萌DX）：CXDOSX♪
